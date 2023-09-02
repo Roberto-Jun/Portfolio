@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('img3.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+.header {
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+
+.header h1 {
+    font-size: 36px;
+}
+
+.header p {
+    font-size: 18px;
+}
+
+
+.skills {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+}
+
+.skills h2 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+.skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.8); 
+    color: white;
+}
+
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+ img {
+     width: 200px;
+     height: 200px;
+      border-radius: 70%;
+      margin-right: 20px; 
+     }
